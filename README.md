@@ -25,7 +25,7 @@ Computer Science graduate passionate about building scalable web applications an
 ## Tech Stack
 
 ### Languages
-Python • JavaScript • Java • SQL
+Python • JavaScript • SQL
 
 ### Frontend
 HTML5 • CSS3 • Bootstrap • React.js
