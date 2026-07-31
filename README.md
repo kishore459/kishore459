@@ -1,135 +1,112 @@
+
 # JANGA KISHORE
 
-### Software Engineer | Python Developer | Machine Learning Enthusiast
+### Software Engineer | Full Stack Developer | Python Developer | AI Enthusiast
 
-B.Tech Computer Science and Engineering graduate with a strong interest in software development, web technologies, and machine learning. Passionate about building practical applications, solving real-world problems, and continuously learning modern technologies.
+Computer Science graduate passionate about building scalable web applications and AI-powered solutions. Experienced with React.js, Python, Django, Flask, REST APIs, SQL, and modern development tools. Strong believer in continuous learning, clean code, and solving real-world problems through technology.
+
+📍 Hyderabad, Telangana, India  
+📧 kishoreyadav2k@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/janga-kishore-370b77312/
+💻 Portfolio: Coming Soon
 
 ---
 
 ## About Me
 
-* 🎓 B.Tech in Computer Science and Engineering (2026 Graduate)
-* 💻 Interested in Software Development, Python, and Machine Learning
-* 🌱 Currently improving my Data Structures & Algorithms skills
-* 🚀 Building projects that combine programming, data, and real-world applications
-* 📍 Hyderabad, India
-* 💼 Open to Software Engineer and Python Developer opportunities
+- 🎓 B.Tech in Computer Science and Engineering (2026)
+- 💻 Interested in Software Engineering, Full Stack Development, and AI Applications
+- 🌱 Currently strengthening Data Structures & Algorithms and System Design fundamentals
+- 🚀 Building projects using React.js, Python, Flask, Django, and Machine Learning
+- 🤝 Open to Software Engineer, Full Stack Developer, and Python Developer opportunities
 
 ---
 
 ## Tech Stack
 
-### Programming Languages
+### Languages
+Python • JavaScript • Java • SQL
 
-* Python
-* JavaScript
-* Flask
-* React.js
+### Frontend
+HTML5 • CSS3 • Bootstrap • React.js
 
-### Web Technologies
-
-* HTML
-* CSS
-* Bootstrap
-  
+### Backend
+Python • Flask • Django • REST APIs
 
 ### Database
+MySQL • SQL
 
-* MySQL
-
-### Core Skills
-
-* Object-Oriented Programming
-* Data Structures and Algorithms
-* Machine Learning
-* Problem Solving
+### Machine Learning
+Scikit-learn • Pandas • NumPy • Predictive Modeling
 
 ### Tools
-
-* Git
-* GitHub
-* VS Code
+Git • GitHub • VS Code
 
 ---
 
 ## Featured Projects
 
-### Used Car Price Prediction Using Machine Learning
+### Used Car Price Prediction
 
-A machine learning application that predicts used vehicle prices based on factors such as manufacturing year, fuel type, transmission, and ownership history.
+Tech Stack: Python, Flask, React.js, SQL, Machine Learning
 
-**Key Contributions**
+- Developed a machine learning application to estimate used vehicle prices.
+- Applied data preprocessing, feature engineering, and model evaluation techniques.
+- Achieved approximately 83% prediction accuracy.
+- Integrated the prediction model into a web application using REST APIs.
 
-* Cleaned and preprocessed vehicle datasets.
-* Applied machine learning algorithms for prediction.
-* Achieved approximately 83% prediction accuracy.
-* Evaluated model performance using MAE and R² metrics.
-* Developed a web-based interface for real-time predictions.
+### House Price Prediction
 
----
+Tech Stack: Python, Django, React.js, SQL, Machine Learning
 
-### House Price Prediction in Chennai and Bengaluru
-
-A predictive analytics project designed to estimate residential property prices using location and property-specific features.
-
-**Key Contributions**
-
-* Performed data preprocessing and feature engineering.
-* Trained and optimized machine learning models.
-* Achieved approximately 85% prediction accuracy.
-* Built an interactive prediction system.
-* Improved model reliability through feature selection techniques.
+- Built a predictive system for estimating house prices in Chennai and Bengaluru.
+- Processed housing datasets through cleaning and normalization.
+- Achieved approximately 85% prediction accuracy.
+- Designed a user-friendly interface for real-time predictions.
 
 ---
 
 ## Internship Experience
 
 ### AI Intern | Edunet Foundation
-
 **Nov 2025 – Dec 2025**
 
-Completed a four-week AI internship under TechSaksham, supported by Microsoft and SAP in collaboration with AICTE.
+TechSaksham Program supported by Microsoft, SAP, and AICTE.
 
-**Key Learning Outcomes**
-
-* Machine Learning Fundamentals
-* Data Preprocessing
-* Model Development and Evaluation
-* Python Programming
-* Real-World AI Applications
-
-**Project Worked On**
-
-* Attendance Management System Using Face Recognition
+- Worked on AI-based application development.
+- Learned machine learning workflows, model development, and evaluation.
+- Gained hands-on experience in Python and real-world AI applications.
+- Built an Attendance Management System using Face Recognition.
 
 ---
 
 ## Certifications
 
-* AI/ML for Geodata Analysis – ISRO
-* Python Basics – Infosys
-* Big Data Computing – NPTEL
-* Python Project for Beginners – Great Learning
+- AI/ML for Geodata Analysis — ISRO
+- Python Basics — Infosys Springboard
+- Big Data Computing — NPTEL
+- Python Project for Beginners — Great Learning
 
 ---
 
 ## Current Focus
 
-* Data Structures and Algorithms
-* Python Development
-* Machine Learning Projects
-* Software Engineering Best Practices
-* Open Source Contributions
+- Full Stack Development
+- Software Engineering Best Practices
+- Machine Learning Applications
+- Data Structures and Algorithms
+- Open Source Learning
 
 ---
 
 ## Connect With Me
 
-* LinkedIn: https://www.linkedin.com/in/janga-kishore-370b77312/
-* GitHub: https://github.com/kishore459/kishore459/
-* Email: kishoreyadav2k@gmail.com
+📧 Email: kishoreyadav2k@gmail.com
+
+💼 LinkedIn: https://www.linkedin.com/in/janga-kishore-370b77312/
+
+💻 GitHub: https://github.com/kishore459/kishore459/
 
 ---
 
-*"Learning, building, and improving one project at a time."*
-
+> "Learning continuously, building consistently, and growing through every project."
