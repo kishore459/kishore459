@@ -8,7 +8,7 @@ Computer Science graduate passionate about building scalable web applications an
 📍 Hyderabad, Telangana, India  
 📧 kishoreyadav2k@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/janga-kishore-370b77312/
-💻 Portfolio: Coming Soon
+
 
 ---
 
